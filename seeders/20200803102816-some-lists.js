@@ -16,6 +16,8 @@ module.exports = {
 			[
 				{
 					name: "List1",
+					createdAt: new Date(),
+					updatedAt: new Date(),
 				}
 			],
 			{}

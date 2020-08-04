@@ -3,5 +3,8 @@
 		"url": "postgres://opvhbmfu:5MtMnQcNL8LryoNvHEAS4WCTJmH-xugh@balarama.db.elephantsql.com:5432/opvhbmfu",
 		"dialect": "postgres",
 		"operatorsAliases": "0"
+	},
+	"production": {
+		"use_env_variable": "DATABASE_URL"
 	}
 }
